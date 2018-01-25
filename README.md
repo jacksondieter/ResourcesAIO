@@ -16,6 +16,7 @@
                 <li><a href="https://github.com/remoteintech/remote-jobs">A list of semi to fully remote-friendly companies in tech</a></li>
                 <li><a href="https://github.com/mikesprague/udacity-nanodegrees"> List of Udacity Nanodegree programs with links to the free courses in their curriculum</a></li>
                 <li><a href="https://github.com/faif/python-patterns">A collection of design patterns/idioms in Python</a></li>
+                        <li><a href="https://career-resource-center.udacity.com/">Career Resources</a></li>
             </ul>
             <blockquote>
                 <p><strong>First Resources</strong> text editors online for share link your projects</p>
