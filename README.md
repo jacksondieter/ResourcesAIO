@@ -18,9 +18,10 @@
                 <li><a href="https://github.com/faif/python-patterns">A collection of design patterns/idioms in Python</a></li>
                 <li><a href="https://career-resource-center.udacity.com/">Career Resources</a></li>
                 <li><a href="https://www.atlassian.com/git/tutorials">Git tutorial</a></li>
-                       https://github.com/kennymkchan/interview-questions-in-javascript
-                        
-            https://github.com/stacygohyunsi/algorithms-primer
+                        https://github.com/kennymkchan/interview-questions-in-javascript
+                        https://github.com/stacygohyunsi/algorithms-primer
+                        https://github.com/getify/You-Dont-Know-JS
+                        https://jsbooks.revolunet.com/
             </ul>
             <blockquote>
                 <p><strong>First Resources</strong> text editors online for share link your projects</p>
