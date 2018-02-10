@@ -23,6 +23,24 @@
                 <li><a href="https://github.com/getify/You-Dont-Know-JS">You dont know JS</a></li>
                 <li><a href="https://jsbooks.revolunet.com/">JSBooks</a></li>
                 <li><a href="http://overapi.com/">Collect all the cheat sheets</a></li>
+                <li><a href="https://github.com/mre/the-coding-interview">the coding interview</a></li>
+            </ul>
+            <blockquote>
+                <p><strong>Projects To-Do</strong></p>
+            </blockquote>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage">Personal Portfolio</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-tribute-page">Tribute Page</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-random-quote-machine">Random quote machine</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/show-the-local-weather">Local weather</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer">Wikipedia Viewer</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api">twitch tv json api</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-javascript-calculator">Javascript calculator</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-pomodoro-clock">Pomodoro Clock</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game">Tic tac toe game</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-simon-game">Simon game</a></li>
             </ul>
             <blockquote>
                 <p><strong>First Resources</strong> text editors online for share link your projects</p>
