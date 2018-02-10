@@ -28,6 +28,7 @@
             <blockquote>
                 <p><strong>Projects To-Do</strong></p>
             </blockquote>
+            <strong>Basic and intermediate Front-End Dev Projects</strong>
             <ul>
                 <li><a href="https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage">Personal Portfolio</a></li>
                 <li><a href="https://www.freecodecamp.org/challenges/build-a-tribute-page">Tribute Page</a></li>
@@ -36,11 +37,49 @@
                 <li><a href="https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer">Wikipedia Viewer</a></li>
                 <li><a href="https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api">twitch tv json api</a></li>
             </ul>
+            <strong>Advance Front-End Dev Projects</strong>
             <ul>
                 <li><a href="https://www.freecodecamp.org/challenges/build-a-javascript-calculator">Javascript calculator</a></li>
                 <li><a href="https://www.freecodecamp.org/challenges/build-a-pomodoro-clock">Pomodoro Clock</a></li>
                 <li><a href="https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game">Tic tac toe game</a></li>
                 <li><a href="https://www.freecodecamp.org/challenges/build-a-simon-game">Simon game</a></li>
+            </ul>
+            <strong>React Projects</strong>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-markdown-previewer">Markdown previewer</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-camper-leaderboard">Leaderboard</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-recipe-box">Recipe Box</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-the-game-of-life">Game of life</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-roguelike-dungeon-crawler-game">Roguelike Dungeon Crawler Game</a></li>
+            </ul>
+            <strong>API Projects</strong>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/timestamp-microservice"></a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/request-header-parser-microservice"></a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/url-shortener-microservice"></a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/image-search-abstraction-layer"></a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/file-metadata-microservice"></a></li>
+            </ul>
+            <strong>Dynamic Web App Projects</strong>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-voting-app"></a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-nightlife-coordination-app"></a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/chart-the-stock-market"></a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/manage-a-book-trading-club"></a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-pinterest-clone"></a></li>
+            </ul>
+            <strong>Others Projects</strong>
+            <ul>
+                <li><a href="">Mail marketing app</a></li>
+                <li><a href="">Delivery app</a></li>
             </ul>
             <blockquote>
                 <p><strong>First Resources</strong> text editors online for share link your projects</p>
