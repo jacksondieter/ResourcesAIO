@@ -25,7 +25,62 @@
                 <li><a href="http://overapi.com/">Collect all the cheat sheets</a></li>
                 <li><a href="https://github.com/mre/the-coding-interview">the coding interview</a></li>
             </ul>
-            
+            <blockquote>
+                <p><strong>Projects To-Do</strong></p>
+            </blockquote>
+            <strong>Basic and intermediate Front-End Dev Projects</strong>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage">Personal Portfolio</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-tribute-page">Tribute Page</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-random-quote-machine">Random quote machine</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/show-the-local-weather">Local weather</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer">Wikipedia Viewer</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api">twitch tv json api</a></li>
+            </ul>
+            <strong>Advance Front-End Dev Projects</strong>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-javascript-calculator">Javascript calculator</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-pomodoro-clock">Pomodoro Clock</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game">Tic tac toe game</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-simon-game">Simon game</a></li>
+            </ul>
+            <strong>React Projects</strong>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-markdown-previewer">Markdown previewer</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-camper-leaderboard">Leaderboard</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-recipe-box">Recipe Box</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-the-game-of-life">Game of life</a></li>
+            </ul>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-roguelike-dungeon-crawler-game">Roguelike Dungeon Crawler Game</a></li>
+            </ul>
+            <strong>API Projects</strong>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/timestamp-microservice">Timestamp microservice</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/request-header-parser-microservice">Request header parser microservice</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/url-shortener-microservice">Url shortener microservice</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/image-search-abstraction-layer">Image search abstraction layer</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/file-metadata-microservice">File metadata microservice</a></li>
+            </ul>
+            <strong>Dynamic Web App Projects</strong>
+            <ul>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-voting-app">Voting app</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-nightlife-coordination-app">Nightlife coordination app</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/chart-the-stock-market">Chart the stock market</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/manage-a-book-trading-club">Book trading club</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-pinterest-clone">Pinterest clone</a></li>
+            </ul>
+            <strong>Others Projects</strong>
+            <ul>
+                <li><a href="">Mail marketing app</a></li>
+                <li><a href="">Delivery app</a></li>
+            </ul>
             <blockquote>
                 <p><strong>First Resources</strong> text editors online for share link your projects</p>
             </blockquote>
@@ -360,62 +415,5 @@
                     <a href="https://lenguajecss.com/p/css/propiedades/grid-css" rel="nofollow noopener">CSS Grid<span class="badge badge-notification clicks" title="1 click">1</span></a> on Lenguaje CSS (Spanish).</li>
                 <li>
                     <a href="https://lenguajecss.com/p/css/propiedades/flexbox" rel="nofollow noopener">Flexbox</a> on Lenguaje CSS (Spanish).</li>
-            </ul>
-
-            <blockquote>
-                <p><strong>Projects To-Do</strong></p>
-            </blockquote>
-            <strong>Basic and intermediate Front-End Dev Projects</strong>
-            <ul>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage">Personal Portfolio</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-tribute-page">Tribute Page</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-random-quote-machine">Random quote machine</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/show-the-local-weather">Local weather</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer">Wikipedia Viewer</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api">twitch tv json api</a></li>
-            </ul>
-            <strong>Advance Front-End Dev Projects</strong>
-            <ul>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-javascript-calculator">Javascript calculator</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-pomodoro-clock">Pomodoro Clock</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game">Tic tac toe game</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-simon-game">Simon game</a></li>
-            </ul>
-            <strong>React Projects</strong>
-            <ul>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-markdown-previewer">Markdown previewer</a></li>
-            </ul>
-            <ul>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-camper-leaderboard">Leaderboard</a></li>
-            </ul>
-            <ul>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-recipe-box">Recipe Box</a></li>
-            </ul>
-            <ul>
-                <li><a href="https://www.freecodecamp.org/challenges/build-the-game-of-life">Game of life</a></li>
-            </ul>
-            <ul>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-roguelike-dungeon-crawler-game">Roguelike Dungeon Crawler Game</a></li>
-            </ul>
-            <strong>API Projects</strong>
-            <ul>
-                <li><a href="https://www.freecodecamp.org/challenges/timestamp-microservice">Timestamp microservice</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/request-header-parser-microservice">Request header parser microservice</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/url-shortener-microservice">Url shortener microservice</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/image-search-abstraction-layer">Image search abstraction layer</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/file-metadata-microservice">File metadata microservice</a></li>
-            </ul>
-            <strong>Dynamic Web App Projects</strong>
-            <ul>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-voting-app">Voting app</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-nightlife-coordination-app">Nightlife coordination app</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/chart-the-stock-market">Chart the stock market</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/manage-a-book-trading-club">Book trading club</a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-pinterest-clone">Pinterest clone</a></li>
-            </ul>
-            <strong>Others Projects</strong>
-            <ul>
-                <li><a href="">Mail marketing app</a></li>
-                <li><a href="">Delivery app</a></li>
             </ul>
         </div>
