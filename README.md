@@ -62,19 +62,19 @@
             </ul>
             <strong>API Projects</strong>
             <ul>
-                <li><a href="https://www.freecodecamp.org/challenges/timestamp-microservice"></a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/request-header-parser-microservice"></a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/url-shortener-microservice"></a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/image-search-abstraction-layer"></a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/file-metadata-microservice"></a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/timestamp-microservice">Timestamp microservice</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/request-header-parser-microservice">Request header parser microservice</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/url-shortener-microservice">Url shortener microservice</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/image-search-abstraction-layer">Image search abstraction layer</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/file-metadata-microservice">File metadata microservice</a></li>
             </ul>
             <strong>Dynamic Web App Projects</strong>
             <ul>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-voting-app"></a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-nightlife-coordination-app"></a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/chart-the-stock-market"></a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/manage-a-book-trading-club"></a></li>
-                <li><a href="https://www.freecodecamp.org/challenges/build-a-pinterest-clone"></a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-voting-app">Voting app</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-nightlife-coordination-app">Nightlife coordination app</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/chart-the-stock-market">Chart the stock market</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/manage-a-book-trading-club">Book trading club</a></li>
+                <li><a href="https://www.freecodecamp.org/challenges/build-a-pinterest-clone">Pinterest clone</a></li>
             </ul>
             <strong>Others Projects</strong>
             <ul>
