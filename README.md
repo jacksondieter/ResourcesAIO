@@ -5,6 +5,7 @@
                 All repo in ONE
             </blockquote>
             <ul>
+                <li><a href="https://www.prettyawesomelists.com/">Pretty Awesome List(PAL)</a></li>
                 <li><a href="https://github.com/evoxtorm/Become-A-Full-Stack-Web-Developer">Free resources for learning Full Stack Web Development
 </a></li>
                 <li><a href="https://github.com/jwasham/coding-interview-university">A complete computer science study plan to become a software engineer.</a></li>
