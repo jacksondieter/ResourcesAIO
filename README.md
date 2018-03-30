@@ -26,6 +26,7 @@
                 <li><a href="http://overapi.com/">Collect all the cheat sheets</a></li>
                 <li><a href="https://github.com/mre/the-coding-interview">the coding interview</a></li>
                 <li><a href="https://regex101.com/">Regex</a></li>
+                <li><a href="https://github.com/encharm/Font-Awesome-SVG-PNG">Font Awesome github</a></li>
             </ul>
             <blockquote>
                 <p><strong>Projects To-Do</strong></p>
