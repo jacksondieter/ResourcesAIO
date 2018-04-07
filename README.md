@@ -27,6 +27,7 @@
                 <li><a href="https://github.com/mre/the-coding-interview">the coding interview</a></li>
                 <li><a href="https://regex101.com/">Regex</a></li>
                 <li><a href="https://github.com/encharm/Font-Awesome-SVG-PNG">Font Awesome github</a></li>
+                        <li><a href="https://github.com/parkjs814/AlgorithmVisualizer">Algorithm</a></li>
                  <li><a href="https://sites.google.com/view/createdbyudacitystudents/home?authuser=0">Udacity resources</a></li>
             </ul>
             <blockquote>
